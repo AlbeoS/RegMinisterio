@@ -4,6 +4,5 @@
     "name": "RegMinisterio",
     "location": "IE",
     "provider_region": "aws-eu-west-1",
-    "deployment_model": "GLOBAL",
-    "environment": "development"
+    "deployment_model": "GLOBAL"
 }
